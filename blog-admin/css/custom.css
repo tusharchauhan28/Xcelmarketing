@@ -1,0 +1,15 @@
+@media (min-width: 768px) {
+	.container {
+		max-width: 90%;
+   }
+   .text-width-extra-small {
+    max-width: 100%;
+    }
+	.post-modern {
+    max-width: 100%;
+   }
+	
+}
+		 .box-icon-modern {
+    max-width: 100%;
+}  
